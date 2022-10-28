@@ -21,7 +21,7 @@ const Home = () => {
       <section id="boxes">
         <div className="container">
           <Card src={html} title={"HTML5 Markup"} url={"/html"} />
-          <Card src={css} title={"CSS3 Styling"} url={"/cs"} />
+          <Card src={css} title={"CSS3 Styling"} url={"/css"} />
           <Card src={logo} title={"Graphic Design"} url={"/logo"} />
         </div>
       </section>
